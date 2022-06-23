@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .skill {
     width: 350px;
-    background: url('./img/icon1.jpg') no-repeat left top;
+    background: url('icon1.jpg') no-repeat left top;
     padding-left: 100px;
 }
 .skill-title {
@@ -93,10 +93,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .skill-free {
     width: 380px;
-    background: url('./img/icon2.jpg') no-repeat left top;
+    background: url('icon2.jpg') no-repeat left top;
 }
 .skill-change{
-    background: url('./img/icon3.jpg') no-repeat left top;
+    background: url('icon3.jpg') no-repeat left top;
 }
 .mail {
     background: #efecf4;
